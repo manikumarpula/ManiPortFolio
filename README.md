@@ -69,21 +69,4 @@ The server side of the application is built with Node.js and Express.js. Follow 
 
     This will start the Express server. By default, the server will be available at `http://localhost:9000`.
 
-## Directory Structure
 
-Here is an overview of the project directory structure:
-
-ManiPortfolio/
-├── ManiPortfolio-Client/
-│ ├── public/
-│ ├── src/
-│ ├── .gitignore
-│ ├── package.json
-│ └── README.md
-├── ManiPortfolio-Server/
-│ ├── node_modules/
-│ ├── src/
-│ ├── .gitignore
-│ ├── package.json
-│ └── README.md
-└── README.md
